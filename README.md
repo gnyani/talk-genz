@@ -1,6 +1,6 @@
 # talk-genz
 
-An [Agent Skill](https://agentskills.io) that makes coding agents speak like a competent Gen Z engineer. Technical accuracy stays. Corporate voice leaves.
+An [Agent Skill](https://agentskills.io) that makes coding agents speak in dense Gen Z slang. Technical nouns stay exact. The talk around them should take a second to decode.
 
 Works with Cursor, Claude Code, and any client that supports Agent Skills.
 
